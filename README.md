@@ -2,7 +2,7 @@
 
 A machine learning project that predicts the outcome of League of Legends matches using in-game statistics, built with a **PyTorch logistic regression model**.
 
-Developed as the final project for the **IBM AI Engineering Professional Certificate** (Deep Learning with PyTorch course).
+Developed as the final project for the **IBM AI Engineering Professional Certificate** (Introduction to Neural Networks and PyTorch course).
 
 ---
 
